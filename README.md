@@ -1,4 +1,4 @@
-# CS210-TermProject
+# Introduction to Data Science - Term Project
 
 # 📊 Cryptocurrency Interest vs Bitcoin Prices Prediction
 
